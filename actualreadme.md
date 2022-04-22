@@ -14,8 +14,10 @@
 - [Questions](#questions)
 
 ![alt text](https://img.shields.io/badge/Installation-red)
-![Pipulate Youtube Playlist](https://youtu.be/UCWXHD9vWjQ)]
-<img src="https://img.youtube.com/vi/UCWXHD9vWjQ/maxresdefault.jpg" width="50%">](https://youtu.be/UCWXHD9vWjQ)
+
+<img src="https://img.youtube.com/vi/UCWXHD9vWjQ/maxresdefault.jpg" width="50%">
+
+
 The steps to use and install this project are as follow, Must use the terminal and use node index.js to run program.
 
 ![alt text](https://img.shields.io/badge/Usage-green)
