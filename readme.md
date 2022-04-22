@@ -17,6 +17,9 @@
 
 <img src="https://img.youtube.com/vi/UCWXHD9vWjQ/maxresdefault.jpg" width="50%">
 
+Here is a link since the file is to big. https://www.youtube.com/watch?v=UCWXHD9vWjQ&ab_channel=Faustolopez
+
+
 
 The steps to use and install this project are as follow, Must use the terminal and use node index.js to run program.
 
